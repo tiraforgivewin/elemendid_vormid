@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "elemendid_vormid", "elemendid_vormid\elemendid_vormid.csproj", "{77F92011-B34B-4D27-A168-5768219BB6B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77F92011-B34B-4D27-A168-5768219BB6B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77F92011-B34B-4D27-A168-5768219BB6B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77F92011-B34B-4D27-A168-5768219BB6B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77F92011-B34B-4D27-A168-5768219BB6B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D230E42-1D86-4D0A-B028-3B72BFAD2E66}
+	EndGlobalSection
+EndGlobal
